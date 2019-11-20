@@ -2,7 +2,7 @@
 name: "slate-osx-0.1"
 enable_cache: true
 suites:
-- "trusty"
+- "bionic"
 architectures:
 - "amd64"
 packages:
